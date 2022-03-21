@@ -7,4 +7,4 @@
 ## Por probar se entiende crear diferentes objetos de los tipos diseñados en sus diferentes modalidades, y probar todos sus métodos. Los tests deben estar bien explicados para que el profesor sepa qué se está probando en cada momento.
 ## 3. Para cada uno de los tipos anteriores, explicar en un documento las diferentes formas de diseño, y las ventajas e incovenientes de usar una u otra forma.
 # Estos ejercicios han sido resueltos y explicados en clase, por tanto no se admiten preguntas al respecto. El contenido teórico necesario, podéis encontrarlo en los apuntes oficiales de la asignatura
-# Si esta petición no se hiciera de forma correcta o se apreciara indicios de copia, conduciría igualmente a la calificación de NO APTO
+# Si esta petición no se hiciera de forma correcta o se apreciaran indicios de copia, conduciría igualmente a la calificación de NO APTO
