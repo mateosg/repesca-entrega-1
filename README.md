@@ -1,5 +1,5 @@
 
-|Por favor, pon aquí tu nombre y uvus para saber a quién tengo que calificar ¡Gracias!  |  
+|Por favor, pon aquí tu nombre y uvus|  
 |---|
 # Para poder seguir optando a la evaluación continua debes hacer lo siguiente:
 ## 1. Corregir los errores de la primera entrega. Esto no es urgente. Habría que hacerlo junto con la segunda entrega
